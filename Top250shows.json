@@ -1,0 +1,974 @@
+{
+    "Chernobyl": {
+        "name": "Chernobyl",
+        "rating": "9.5"
+    },
+    "Planet Earth II": {
+        "name": "Planet Earth II",
+        "rating": "9.5"
+    },
+    "Band of Brothers": {
+        "name": "Band of Brothers",
+        "rating": "9.4"
+    },
+    "Planet Earth": {
+        "name": "Planet Earth",
+        "rating": "9.4"
+    },
+    "Breaking Bad": {
+        "name": "Breaking Bad",
+        "rating": "9.4"
+    },
+    "Game of Thrones": {
+        "name": "Game of Thrones",
+        "rating": "9.3"
+    },
+    "The Wire": {
+        "name": "The Wire",
+        "rating": "9.3"
+    },
+    "Cosmos": {
+        "name": "Cosmos",
+        "rating": "9.2"
+    },
+    "Blue Planet II": {
+        "name": "Blue Planet II",
+        "rating": "9.2"
+    },
+    "Our Planet": {
+        "name": "Our Planet",
+        "rating": "9.2"
+    },
+    "Rick and Morty": {
+        "name": "Rick and Morty",
+        "rating": "9.2"
+    },
+    "The Sopranos": {
+        "name": "The Sopranos",
+        "rating": "9.1"
+    },
+    "The World at War": {
+        "name": "The World at War",
+        "rating": "9.1"
+    },
+    "Avatar: The Last Airbender": {
+        "name": "Avatar: The Last Airbender",
+        "rating": "9.1"
+    },
+    "Life": {
+        "name": "Life",
+        "rating": "9.1"
+    },
+    "The Beatles Anthology": {
+        "name": "The Beatles Anthology",
+        "rating": "9.1"
+    },
+    "Sherlock": {
+        "name": "Sherlock",
+        "rating": "9.1"
+    },
+    "The Vietnam War": {
+        "name": "The Vietnam War",
+        "rating": "9.0"
+    },
+    "The Twilight Zone": {
+        "name": "The Twilight Zone",
+        "rating": "9.0"
+    },
+    "Human Planet": {
+        "name": "Human Planet",
+        "rating": "9.0"
+    },
+    "Dekalog": {
+        "name": "Dekalog",
+        "rating": "9.0"
+    },
+    "Hagane no renkinjutsushi": {
+        "name": "Hagane no renkinjutsushi",
+        "rating": "8.6"
+    },
+    "Firefly": {
+        "name": "Firefly",
+        "rating": "9.0"
+    },
+    "The Civil War": {
+        "name": "The Civil War",
+        "rating": "9.0"
+    },
+    "When They See Us": {
+        "name": "When They See Us",
+        "rating": "9.0"
+    },
+    "True Detective": {
+        "name": "True Detective",
+        "rating": "9.0"
+    },
+    "Fargo": {
+        "name": "Fargo",
+        "rating": "8.9"
+    },
+    "Batman: The Animated Series": {
+        "name": "Batman: The Animated Series",
+        "rating": "8.9"
+    },
+    "Death Note: Desu n\u00f4to": {
+        "name": "Death Note: Desu n\u00f4to",
+        "rating": "8.9"
+    },
+    "Last Week Tonight with John Oliver": {
+        "name": "Last Week Tonight with John Oliver",
+        "rating": "8.9"
+    },
+    "The Blue Planet": {
+        "name": "The Blue Planet",
+        "rating": "8.9"
+    },
+    "Kaub\u00f4i bibappu": {
+        "name": "Kaub\u00f4i bibappu",
+        "rating": "8.9"
+    },
+    "Black Mirror": {
+        "name": "Black Mirror",
+        "rating": "8.8"
+    },
+    "Frozen Planet": {
+        "name": "Frozen Planet",
+        "rating": "8.8"
+    },
+    "One Punch Man: Wanpanman": {
+        "name": "One Punch Man: Wanpanman",
+        "rating": "8.8"
+    },
+    "Monty Python's Flying Circus": {
+        "name": "Monty Python's Flying Circus",
+        "rating": "8.8"
+    },
+    "Friends": {
+        "name": "Friends",
+        "rating": "8.8"
+    },
+    "Pride and Prejudice": {
+        "name": "Pride and Prejudice",
+        "rating": "8.8"
+    },
+    "Africa": {
+        "name": "Africa",
+        "rating": "8.8"
+    },
+    "Only Fools and Horses....": {
+        "name": "Only Fools and Horses....",
+        "rating": "8.8"
+    },
+    "Das Boot": {
+        "name": "Das Boot",
+        "rating": "8.8"
+    },
+    "Seinfeld": {
+        "name": "Seinfeld",
+        "rating": "8.8"
+    },
+    "Apocalypse: La 2\u00e8me guerre mondiale": {
+        "name": "Apocalypse: La 2\u00e8me guerre mondiale",
+        "rating": "8.8"
+    },
+    "Stranger Things": {
+        "name": "Stranger Things",
+        "rating": "8.8"
+    },
+    "Gravity Falls": {
+        "name": "Gravity Falls",
+        "rating": "8.8"
+    },
+    "Twin Peaks": {
+        "name": "Twin Peaks",
+        "rating": "8.5"
+    },
+    "Arrested Development": {
+        "name": "Arrested Development",
+        "rating": "8.8"
+    },
+    "Over the Garden Wall": {
+        "name": "Over the Garden Wall",
+        "rating": "8.8"
+    },
+    "The Office": {
+        "name": "The Office",
+        "rating": "8.5"
+    },
+    "Freaks and Geeks": {
+        "name": "Freaks and Geeks",
+        "rating": "8.8"
+    },
+    "Narcos": {
+        "name": "Narcos",
+        "rating": "8.8"
+    },
+    "TVF Pitchers": {
+        "name": "TVF Pitchers",
+        "rating": "8.8"
+    },
+    "I, Claudius": {
+        "name": "I, Claudius",
+        "rating": "8.8"
+    },
+    "Fawlty Towers": {
+        "name": "Fawlty Towers",
+        "rating": "8.8"
+    },
+    "House of Cards": {
+        "name": "House of Cards",
+        "rating": "8.5"
+    },
+    "Peaky Blinders": {
+        "name": "Peaky Blinders",
+        "rating": "8.7"
+    },
+    "Blackadder Goes Forth": {
+        "name": "Blackadder Goes Forth",
+        "rating": "8.7"
+    },
+    "Westworld": {
+        "name": "Westworld",
+        "rating": "8.7"
+    },
+    "Cobra Kai": {
+        "name": "Cobra Kai",
+        "rating": "8.7"
+    },
+    "Rome": {
+        "name": "Rome",
+        "rating": "8.7"
+    },
+    "Shingeki no kyojin": {
+        "name": "Shingeki no kyojin",
+        "rating": "8.7"
+    },
+    "It's Always Sunny in Philadelphia": {
+        "name": "It's Always Sunny in Philadelphia",
+        "rating": "8.7"
+    },
+    "Senke nad Balkanom": {
+        "name": "Senke nad Balkanom",
+        "rating": "8.7"
+    },
+    "Oz": {
+        "name": "Oz",
+        "rating": "8.7"
+    },
+    "The Simpsons": {
+        "name": "The Simpsons",
+        "rating": "8.7"
+    },
+    "Sahsiyet": {
+        "name": "Sahsiyet",
+        "rating": "8.7"
+    },
+    "Justice League Unlimited": {
+        "name": "Justice League Unlimited",
+        "rating": "8.7"
+    },
+    "Curb Your Enthusiasm": {
+        "name": "Curb Your Enthusiasm",
+        "rating": "8.7"
+    },
+    "The West Wing": {
+        "name": "The West Wing",
+        "rating": "8.7"
+    },
+    "South Park": {
+        "name": "South Park",
+        "rating": "8.7"
+    },
+    "House M.D.": {
+        "name": "House M.D.",
+        "rating": "8.7"
+    },
+    "Satyamev Jayate": {
+        "name": "Satyamev Jayate",
+        "rating": "8.7"
+    },
+    "Chappelle's Show": {
+        "name": "Chappelle's Show",
+        "rating": "8.7"
+    },
+    "Nathan for You": {
+        "name": "Nathan for You",
+        "rating": "8.7"
+    },
+    "The Marvelous Mrs. Maisel": {
+        "name": "The Marvelous Mrs. Maisel",
+        "rating": "8.7"
+    },
+    "Dragon Ball Z": {
+        "name": "Dragon Ball Z",
+        "rating": "8.7"
+    },
+    "Deadwood": {
+        "name": "Deadwood",
+        "rating": "8.7"
+    },
+    "Dragon Ball Z: Doragon b\u00f4ru zetto": {
+        "name": "Dragon Ball Z: Doragon b\u00f4ru zetto",
+        "rating": "8.7"
+    },
+    "Steins;Gate": {
+        "name": "Steins;Gate",
+        "rating": "8.7"
+    },
+    "The Adventures of Sherlock Holmes": {
+        "name": "The Adventures of Sherlock Holmes",
+        "rating": "8.7"
+    },
+    "Lonesome Dove": {
+        "name": "Lonesome Dove",
+        "rating": "8.7"
+    },
+    "The Jinx: The Life and Deaths of Robert Durst": {
+        "name": "The Jinx: The Life and Deaths of Robert Durst",
+        "rating": "8.7"
+    },
+    "The Haunting of Hill House": {
+        "name": "The Haunting of Hill House",
+        "rating": "8.6"
+    },
+    "Battlestar Galactica": {
+        "name": "Battlestar Galactica",
+        "rating": "8.6"
+    },
+    "Better Call Saul": {
+        "name": "Better Call Saul",
+        "rating": "8.6"
+    },
+    "The Thick of It": {
+        "name": "The Thick of It",
+        "rating": "8.6"
+    },
+    "Six Feet Under": {
+        "name": "Six Feet Under",
+        "rating": "8.6"
+    },
+    "The Return of Sherlock Holmes": {
+        "name": "The Return of Sherlock Holmes",
+        "rating": "8.6"
+    },
+    "The Crown": {
+        "name": "The Crown",
+        "rating": "8.6"
+    },
+    "The Memoirs of Sherlock Holmes": {
+        "name": "The Memoirs of Sherlock Holmes",
+        "rating": "8.6"
+    },
+    "The X Files": {
+        "name": "The X Files",
+        "rating": "8.6"
+    },
+    "The Shield": {
+        "name": "The Shield",
+        "rating": "8.6"
+    },
+    "Top Gear": {
+        "name": "Top Gear",
+        "rating": "8.6"
+    },
+    "Downton Abbey": {
+        "name": "Downton Abbey",
+        "rating": "8.6"
+    },
+    "Monster": {
+        "name": "Monster",
+        "rating": "8.6"
+    },
+    "Dexter": {
+        "name": "Dexter",
+        "rating": "8.6"
+    },
+    "Blackadder II": {
+        "name": "Blackadder II",
+        "rating": "8.6"
+    },
+    "Young Justice": {
+        "name": "Young Justice",
+        "rating": "8.6"
+    },
+    "Archer": {
+        "name": "Archer",
+        "rating": "8.6"
+    },
+    "Dark": {
+        "name": "Dark",
+        "rating": "8.6"
+    },
+    "From the Earth to the Moon": {
+        "name": "From the Earth to the Moon",
+        "rating": "8.6"
+    },
+    "Love, Death & Robots": {
+        "name": "Love, Death & Robots",
+        "rating": "8.6"
+    },
+    "Bron/Broen": {
+        "name": "Bron/Broen",
+        "rating": "8.6"
+    },
+    "The Grand Tour": {
+        "name": "The Grand Tour",
+        "rating": "8.6"
+    },
+    "Star Trek: The Next Generation": {
+        "name": "Star Trek: The Next Generation",
+        "rating": "8.6"
+    },
+    "Daredevil": {
+        "name": "Daredevil",
+        "rating": "8.6"
+    },
+    "Parks and Recreation": {
+        "name": "Parks and Recreation",
+        "rating": "8.6"
+    },
+    "This Is Us": {
+        "name": "This Is Us",
+        "rating": "8.6"
+    },
+    "Hunter x Hunter": {
+        "name": "Hunter x Hunter",
+        "rating": "8.6"
+    },
+    "Making a Murderer": {
+        "name": "Making a Murderer",
+        "rating": "8.6"
+    },
+    "Atlanta": {
+        "name": "Atlanta",
+        "rating": "8.6"
+    },
+    "Blackadder the Third": {
+        "name": "Blackadder the Third",
+        "rating": "8.6"
+    },
+    "North & South": {
+        "name": "North & South",
+        "rating": "8.6"
+    },
+    "Sacred Games": {
+        "name": "Sacred Games",
+        "rating": "8.6"
+    },
+    "Mahabharat": {
+        "name": "Mahabharat",
+        "rating": "8.6"
+    },
+    "K\u00f4do giasu: Hangyaku no rur\u00fbshu": {
+        "name": "K\u00f4do giasu: Hangyaku no rur\u00fbshu",
+        "rating": "8.6"
+    },
+    "Gomorra: La serie": {
+        "name": "Gomorra: La serie",
+        "rating": "8.6"
+    },
+    "Mad Men": {
+        "name": "Mad Men",
+        "rating": "8.6"
+    },
+    "Spaced": {
+        "name": "Spaced",
+        "rating": "8.6"
+    },
+    "Long Way Round": {
+        "name": "Long Way Round",
+        "rating": "8.6"
+    },
+    "The Bugs Bunny Show": {
+        "name": "The Bugs Bunny Show",
+        "rating": "8.6"
+    },
+    "Through the Wormhole": {
+        "name": "Through the Wormhole",
+        "rating": "8.6"
+    },
+    "Shameless": {
+        "name": "Shameless",
+        "rating": "8.6"
+    },
+    "Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen": {
+        "name": "Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen",
+        "rating": "8.6"
+    },
+    "QI": {
+        "name": "QI",
+        "rating": "8.6"
+    },
+    "Friday Night Lights": {
+        "name": "Friday Night Lights",
+        "rating": "8.6"
+    },
+    "Doctor Who": {
+        "name": "Doctor Who",
+        "rating": "8.4"
+    },
+    "Mind Your Language": {
+        "name": "Mind Your Language",
+        "rating": "8.6"
+    },
+    "Peep Show": {
+        "name": "Peep Show",
+        "rating": "8.6"
+    },
+    "Line of Duty": {
+        "name": "Line of Duty",
+        "rating": "8.6"
+    },
+    "MisteRogers' Neighborhood": {
+        "name": "MisteRogers' Neighborhood",
+        "rating": "8.6"
+    },
+    "Father Ted": {
+        "name": "Father Ted",
+        "rating": "8.6"
+    },
+    "Leyla ile Mecnun": {
+        "name": "Leyla ile Mecnun",
+        "rating": "8.6"
+    },
+    "Skam": {
+        "name": "Skam",
+        "rating": "8.5"
+    },
+    "Justice League": {
+        "name": "Justice League",
+        "rating": "8.5"
+    },
+    "Kota Factory": {
+        "name": "Kota Factory",
+        "rating": "8.5"
+    },
+    "The Newsroom": {
+        "name": "The Newsroom",
+        "rating": "8.5"
+    },
+    "Justified": {
+        "name": "Justified",
+        "rating": "8.5"
+    },
+    "Flight of the Conchords": {
+        "name": "Flight of the Conchords",
+        "rating": "8.5"
+    },
+    "Shin Seiki Evangerion": {
+        "name": "Shin Seiki Evangerion",
+        "rating": "8.5"
+    },
+    "Yes Minister": {
+        "name": "Yes Minister",
+        "rating": "8.5"
+    },
+    "Chef's Table": {
+        "name": "Chef's Table",
+        "rating": "8.5"
+    },
+    "Big Little Lies": {
+        "name": "Big Little Lies",
+        "rating": "8.5"
+    },
+    "Generation Kill": {
+        "name": "Generation Kill",
+        "rating": "8.5"
+    },
+    "Seinto Seiya": {
+        "name": "Seinto Seiya",
+        "rating": "8.5"
+    },
+    "Poirot": {
+        "name": "Poirot",
+        "rating": "8.5"
+    },
+    "The Defiant Ones": {
+        "name": "The Defiant Ones",
+        "rating": "8.5"
+    },
+    "Boardwalk Empire": {
+        "name": "Boardwalk Empire",
+        "rating": "8.5"
+    },
+    "Fleabag": {
+        "name": "Fleabag",
+        "rating": "8.5"
+    },
+    "Brass Eye": {
+        "name": "Brass Eye",
+        "rating": "8.5"
+    },
+    "Kenp\u00fb denki beruseruku": {
+        "name": "Kenp\u00fb denki beruseruku",
+        "rating": "8.5"
+    },
+    "Adventure Time with Finn & Jake": {
+        "name": "Adventure Time with Finn & Jake",
+        "rating": "8.5"
+    },
+    "John Adams": {
+        "name": "John Adams",
+        "rating": "8.5"
+    },
+    "Mystery Science Theater 3000": {
+        "name": "Mystery Science Theater 3000",
+        "rating": "8.5"
+    },
+    "The Eric Andre Show": {
+        "name": "The Eric Andre Show",
+        "rating": "8.5"
+    },
+    "Yes, Prime Minister": {
+        "name": "Yes, Prime Minister",
+        "rating": "8.5"
+    },
+    "The Night Of": {
+        "name": "The Night Of",
+        "rating": "8.5"
+    },
+    "Alfred Hitchcock Presents": {
+        "name": "Alfred Hitchcock Presents",
+        "rating": "8.5"
+    },
+    "Louie": {
+        "name": "Louie",
+        "rating": "8.5"
+    },
+    "Samurai chanpur\u00fb": {
+        "name": "Samurai chanpur\u00fb",
+        "rating": "8.5"
+    },
+    "Coupling": {
+        "name": "Coupling",
+        "rating": "8.5"
+    },
+    "Homicide: Life on the Street": {
+        "name": "Homicide: Life on the Street",
+        "rating": "8.5"
+    },
+    "The Punisher": {
+        "name": "The Punisher",
+        "rating": "8.5"
+    },
+    "Dragon Ball": {
+        "name": "Dragon Ball",
+        "rating": "8.5"
+    },
+    "The IT Crowd": {
+        "name": "The IT Crowd",
+        "rating": "8.5"
+    },
+    "Dragon Ball: Doragon b\u00f4ru": {
+        "name": "Dragon Ball: Doragon b\u00f4ru",
+        "rating": "8.5"
+    },
+    "Mindhunter": {
+        "name": "Mindhunter",
+        "rating": "8.5"
+    },
+    "Mr. Bean": {
+        "name": "Mr. Bean",
+        "rating": "8.5"
+    },
+    "The Untold History of the United States": {
+        "name": "The Untold History of the United States",
+        "rating": "8.5"
+    },
+    "Feud": {
+        "name": "Feud",
+        "rating": "8.5"
+    },
+    "Dr. Horrible's Sing-Along Blog": {
+        "name": "Dr. Horrible's Sing-Along Blog",
+        "rating": "8.5"
+    },
+    "Silicon Valley": {
+        "name": "Silicon Valley",
+        "rating": "8.5"
+    },
+    "BoJack Horseman": {
+        "name": "BoJack Horseman",
+        "rating": "8.5"
+    },
+    "Formula 1: Drive to Survive": {
+        "name": "Formula 1: Drive to Survive",
+        "rating": "8.5"
+    },
+    "Whose Line Is It Anyway?": {
+        "name": "Whose Line Is It Anyway?",
+        "rating": "8.5"
+    },
+    "Vikings": {
+        "name": "Vikings",
+        "rating": "8.5"
+    },
+    "Impractical Jokers": {
+        "name": "Impractical Jokers",
+        "rating": "8.5"
+    },
+    "The New Batman Adventures": {
+        "name": "The New Batman Adventures",
+        "rating": "8.5"
+    },
+    "Brideshead Revisited": {
+        "name": "Brideshead Revisited",
+        "rating": "8.5"
+    },
+    "Hannibal": {
+        "name": "Hannibal",
+        "rating": "8.5"
+    },
+    "Black Books": {
+        "name": "Black Books",
+        "rating": "8.5"
+    },
+    "Yeh Meri Family": {
+        "name": "Yeh Meri Family",
+        "rating": "8.5"
+    },
+    "Mr. Robot": {
+        "name": "Mr. Robot",
+        "rating": "8.5"
+    },
+    "Sseulsseulhago Chalranhashin: Dokkaebi": {
+        "name": "Sseulsseulhago Chalranhashin: Dokkaebi",
+        "rating": "8.5"
+    },
+    "Umbre": {
+        "name": "Umbre",
+        "rating": "8.5"
+    },
+    "Boku dake ga inai machi": {
+        "name": "Boku dake ga inai machi",
+        "rating": "8.5"
+    },
+    "Spartacus: Gods of the Arena": {
+        "name": "Spartacus: Gods of the Arena",
+        "rating": "8.5"
+    },
+    "Horace and Pete": {
+        "name": "Horace and Pete",
+        "rating": "8.5"
+    },
+    "Endeavour": {
+        "name": "Endeavour",
+        "rating": "8.5"
+    },
+    "La Casa de Papel": {
+        "name": "La Casa de Papel",
+        "rating": "8.5"
+    },
+    "The Handmaid's Tale": {
+        "name": "The Handmaid's Tale",
+        "rating": "8.5"
+    },
+    "Luther": {
+        "name": "Luther",
+        "rating": "8.5"
+    },
+    "The Prisoner": {
+        "name": "The Prisoner",
+        "rating": "8.5"
+    },
+    "Sons of Anarchy": {
+        "name": "Sons of Anarchy",
+        "rating": "8.5"
+    },
+    "Masum": {
+        "name": "Masum",
+        "rating": "8.5"
+    },
+    "Futurama": {
+        "name": "Futurama",
+        "rating": "8.5"
+    },
+    "Tinker Tailor Soldier Spy": {
+        "name": "Tinker Tailor Soldier Spy",
+        "rating": "8.5"
+    },
+    "I'm Alan Partridge": {
+        "name": "I'm Alan Partridge",
+        "rating": "8.5"
+    },
+    "The Knick": {
+        "name": "The Knick",
+        "rating": "8.5"
+    },
+    "Detectorists": {
+        "name": "Detectorists",
+        "rating": "8.5"
+    },
+    "K\u00f4kaku kid\u00f4tai: Stand Alone Complex": {
+        "name": "K\u00f4kaku kid\u00f4tai: Stand Alone Complex",
+        "rating": "8.5"
+    },
+    "Jesus of Nazareth": {
+        "name": "Jesus of Nazareth",
+        "rating": "8.5"
+    },
+    "American Crime Story": {
+        "name": "American Crime Story",
+        "rating": "8.5"
+    },
+    "Community": {
+        "name": "Community",
+        "rating": "8.4"
+    },
+    "Spartacus: Blood and Sand": {
+        "name": "Spartacus: Blood and Sand",
+        "rating": "8.4"
+    },
+    "Delhi Crime": {
+        "name": "Delhi Crime",
+        "rating": "8.4"
+    },
+    "Merl\u00ed": {
+        "name": "Merl\u00ed",
+        "rating": "8.4"
+    },
+    "Ash vs Evil Dead": {
+        "name": "Ash vs Evil Dead",
+        "rating": "8.4"
+    },
+    "Wentworth": {
+        "name": "Wentworth",
+        "rating": "8.4"
+    },
+    "This Is England '90": {
+        "name": "This Is England '90",
+        "rating": "8.4"
+    },
+    "Rur\u00f4ni Kenshin -Meiji kenkaku romantan": {
+        "name": "Rur\u00f4ni Kenshin -Meiji kenkaku romantan",
+        "rating": "8.4"
+    },
+    "X-Men": {
+        "name": "X-Men",
+        "rating": "8.4"
+    },
+    "Scener ur ett \u00e4ktenskap": {
+        "name": "Scener ur ett \u00e4ktenskap",
+        "rating": "8.4"
+    },
+    "The Venture Bros.": {
+        "name": "The Venture Bros.",
+        "rating": "8.4"
+    },
+    "Unsere M\u00fctter, unsere V\u00e4ter": {
+        "name": "Unsere M\u00fctter, unsere V\u00e4ter",
+        "rating": "8.4"
+    },
+    "Behzat \u00c7.: Bir Ankara Polisiyesi": {
+        "name": "Behzat \u00c7.: Bir Ankara Polisiyesi",
+        "rating": "8.4"
+    },
+    "The Daily Show": {
+        "name": "The Daily Show",
+        "rating": "8.4"
+    },
+    "Happy Valley": {
+        "name": "Happy Valley",
+        "rating": "8.4"
+    },
+    "Samurai Jack": {
+        "name": "Samurai Jack",
+        "rating": "8.4"
+    },
+    "The Legend of Korra": {
+        "name": "The Legend of Korra",
+        "rating": "8.4"
+    },
+    "Taboo": {
+        "name": "Taboo",
+        "rating": "8.4"
+    },
+    "The Colbert Report": {
+        "name": "The Colbert Report",
+        "rating": "8.4"
+    },
+    "Critical Role": {
+        "name": "Critical Role",
+        "rating": "8.4"
+    },
+    "Garth Marenghi's Darkplace": {
+        "name": "Garth Marenghi's Darkplace",
+        "rating": "8.4"
+    },
+    "Carniv\u00e0le": {
+        "name": "Carniv\u00e0le",
+        "rating": "8.4"
+    },
+    "One Piece: Wan p\u00eesu": {
+        "name": "One Piece: Wan p\u00eesu",
+        "rating": "8.4"
+    },
+    "Police Squad!": {
+        "name": "Police Squad!",
+        "rating": "8.4"
+    },
+    "Narcos: Mexico": {
+        "name": "Narcos: Mexico",
+        "rating": "8.4"
+    },
+    "After Life": {
+        "name": "After Life",
+        "rating": "8.4"
+    },
+    "Utopia": {
+        "name": "Utopia",
+        "rating": "8.4"
+    },
+    "Suits": {
+        "name": "Suits",
+        "rating": "8.4"
+    },
+    "The Angry Video Game Nerd": {
+        "name": "The Angry Video Game Nerd",
+        "rating": "8.4"
+    },
+    "Borgen": {
+        "name": "Borgen",
+        "rating": "8.4"
+    },
+    "The Bugs Bunny/Looney Tunes Comedy Hour": {
+        "name": "The Bugs Bunny/Looney Tunes Comedy Hour",
+        "rating": "8.4"
+    },
+    "Inside No. 9": {
+        "name": "Inside No. 9",
+        "rating": "8.4"
+    },
+    "Entourage": {
+        "name": "Entourage",
+        "rating": "8.4"
+    },
+    "Inside Look: The People v. O.J. Simpson - American Crime Story": {
+        "name": "Inside Look: The People v. O.J. Simpson - American Crime Story",
+        "rating": "8.4"
+    },
+    "State of Play": {
+        "name": "State of Play",
+        "rating": "8.4"
+    },
+    "Pose": {
+        "name": "Pose",
+        "rating": "8.4"
+    },
+    "Modern Family": {
+        "name": "Modern Family",
+        "rating": "8.4"
+    },
+    "The Muppet Show": {
+        "name": "The Muppet Show",
+        "rating": "8.4"
+    },
+    "The Expanse": {
+        "name": "The Expanse",
+        "rating": "8.4"
+    },
+    "Brooklyn Nine-Nine": {
+        "name": "Brooklyn Nine-Nine",
+        "rating": "8.3"
+    }
+}
